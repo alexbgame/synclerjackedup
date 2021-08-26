@@ -6,12 +6,12 @@
     "classPath": "",
     "permaUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.php",
     "sourcePackages": [
-      "SynclerScrapers - OpenScrapers",
-      "Syncler.ml - Providers",
-      "Orion - Wako | Default Key",
-      "Squizzle - Fast",
-      "Squizzle - Ultimate",
-      "Aki07 - Unified"
+      "synclerScrapers - openscrapers",
+      "syncler.ml - providers",
+      "orion - wako | default key",
+      "squizzle - fast",
+      "squizzle - ultimate",
+      "aki07 - unified"
     ]
   },
   "torrentapi": {
